@@ -97,13 +97,13 @@ h1 {
 }
 
 .humo_1 {
-	width: 40px;
-	height: 40px;
+	width: 24px;
+	height: 24px;
 	background: linear-gradient(to right, #595959, #a6a6a6);
 	position: absolute;
-	border-radius: 20px;
-	bottom: 240px;
-	left: 430px;
+	border-radius: 15px;
+	bottom: 245px;
+	left: 445px;
 }
 
 .humo_2 {
@@ -112,18 +112,18 @@ h1 {
 	background: linear-gradient(to right, #8c8c8c, #cccccc);
 	position: absolute;
 	border-radius: 15px;
-	bottom: 252px;
+	bottom: 256px;
 	left: 460px;
 }
 
 .humo_3 {
-	width: 24px;
-	height: 24px;
+	width: 45px;
+	height: 45px;
 	background: linear-gradient(to right, #bfbfbf, #ffffff);
 	position: absolute;
-	border-radius: 15px;
-	bottom: 264px;
-	left: 482px;
+	border-radius: 22px;
+	bottom: 258px;
+	left: 473px;
 }
 
 .chimenea {
